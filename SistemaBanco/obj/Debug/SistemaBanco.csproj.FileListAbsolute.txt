@@ -1,0 +1,22 @@
+C:\Users\Eliton\Desktop\SistemaBanco\SistemaBanco\bin\Debug\SistemaBanco.exe.config
+C:\Users\Eliton\Desktop\SistemaBanco\SistemaBanco\bin\Debug\SistemaBanco.exe
+C:\Users\Eliton\Desktop\SistemaBanco\SistemaBanco\bin\Debug\SistemaBanco.pdb
+C:\Users\Eliton\Desktop\SistemaBanco\SistemaBanco\obj\Debug\SistemaBanco.csproj.AssemblyReference.cache
+C:\Users\Eliton\Desktop\SistemaBanco\SistemaBanco\obj\Debug\SistemaBanco.Form1.resources
+C:\Users\Eliton\Desktop\SistemaBanco\SistemaBanco\obj\Debug\SistemaBanco.Properties.Resources.resources
+C:\Users\Eliton\Desktop\SistemaBanco\SistemaBanco\obj\Debug\SistemaBanco.csproj.GenerateResource.cache
+C:\Users\Eliton\Desktop\SistemaBanco\SistemaBanco\obj\Debug\SistemaBanco.csproj.CoreCompileInputs.cache
+C:\Users\Eliton\Desktop\SistemaBanco\SistemaBanco\obj\Debug\SistemaBanco.exe
+C:\Users\Eliton\Desktop\SistemaBanco\SistemaBanco\obj\Debug\SistemaBanco.pdb
+C:\Users\Aluno\Desktop\Nova pasta\SistemaBanco\obj\Debug\SistemaBanco.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Nova pasta\SistemaBanco\obj\Debug\SistemaBanco.Form1.resources
+C:\Users\Aluno\Desktop\Nova pasta\SistemaBanco\obj\Debug\SistemaBanco.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Nova pasta\SistemaBanco\obj\Debug\SistemaBanco.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Nova pasta\SistemaBanco\obj\Debug\SistemaBanco.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Nova pasta\SistemaBanco\obj\Debug\SistemaBanco.exe
+C:\Users\Aluno\Desktop\Nova pasta\SistemaBanco\obj\Debug\SistemaBanco.pdb
+C:\Users\Aluno\Desktop\Nova pasta\SistemaBanco\bin\Debug\SistemaBanco.exe.config
+C:\Users\Aluno\Desktop\Nova pasta\SistemaBanco\bin\Debug\SistemaBanco.exe
+C:\Users\Aluno\Desktop\Nova pasta\SistemaBanco\bin\Debug\SistemaBanco.pdb
+C:\Users\Aluno\Desktop\Nova pasta\SistemaBanco\obj\Debug\SistemaBanco.FormCliente.resources
+C:\Users\Aluno\Desktop\Nova pasta\SistemaBanco\obj\Debug\SistemaBanco.FormContainer.resources
